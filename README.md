@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/88576691?s=400&u=99e4e520221ef04228bd968cc892c6260bd44d6a&v=4" width="180" />
+<img src="https://avatars.githubusercontent.com/u/88576691?s=400&u=99e4e520221ef04228bd968cc892c6260bd44d6a&v=4" width="180" style="border-radius: 50%;" alt="Profile Pic" />
 
 # Hi there, I'm a Full Stack Developer! 👋
 
@@ -13,6 +13,7 @@
 <p align="center">
   <a href="mailto:abhay315204@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/abhay-s-60938424a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://abhay.portfoliopro.site"><img src="https://img.shields.io/badge/Portfolio-2094F3?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
@@ -21,7 +22,10 @@
 - 🎓 **Computer Science Undergraduate** at **VIT Bhopal University** (Class of 2026).
 - 💼 Former **Software Engineering Intern** at **UL Technology Solutions**.
 - 🛠️ Specializing in **Full Stack Development** with over a year of experience.
-- 🔭 Currently scaling **Mattter** (Fashion Tech) and building **PortfolioPro**.
+- 🌐 **My Portfolio:** Check out my work at [**abhay.portfoliopro.site**](https://abhay.portfoliopro.site).
+- 🔭 **Current Focus:** Scaling **Mattter** and building **PortfolioPro**.
+
+> **Want a professional portfolio like mine?** Create your account at [**portfoliopro.site**](https://portfoliopro.site) and start building today! 🚀
 
 ---
 
@@ -36,8 +40,8 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Mattter** | "Uber for Personal Styling" — A location-based marketplace connecting fashion Seekers with Catalyst stylists. Features real-time geo-discovery & dual-role architecture. | *Django, React, Leaflet* |
-| **PortfolioPro** | Advanced portfolio building platform for developers and creatives. | *React, Node.js* |
+| **[Mattter](https://github.com/abhayShyam004/Mattter)** | "Uber for Personal Styling" — A location-based marketplace connecting fashion Seekers with Catalyst stylists. | *Django, React, Leaflet* |
+| **[PortfolioPro](https://portfoliopro.site)** | Advanced portfolio building platform. **[Sign up here](https://portfoliopro.site)** to build your own professional site. | *Django* |
 | **Snoof** | Collaborative issue-tracking platform for distributed teams. | *Web Dev* |
 | **AscendiaGo** | Real-time dynamic itinerary planning application. | *Full Stack* |
 
@@ -52,7 +56,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhayShyam004&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhayShyam004&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph" />
 </div>
 
 </div>
