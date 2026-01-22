@@ -1,9 +1,11 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/88576691?s=400&u=99e4e520221ef04228bd968cc892c6260bd44d6a&v=4" width="180" />
+
 # Hi there, I'm a Full Stack Developer! 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=CS+Undergrad+@+VIT+Bhopal;Building+Scalable+Web+Apps;Python+%7C+C%2B%2B+%7C+MERN+%7C+Django;AI+%26+IoT+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=CS+Undergrad+@+VIT+Bhopal;Building+Scalable+Web+Apps;Python+%7C+C%2B%2B+%7C+MERN+%7C+Django;AI+%26+Backend+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
