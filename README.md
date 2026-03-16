@@ -23,7 +23,7 @@
 - 💼 Former **Software Engineering Intern** at **UL Technology Solutions**.
 - 🛠️ Specializing in **Full Stack Development** with over a year of experience.
 - 🌐 **My Portfolio:** Check out my work at [**abhay.portfoliopro.site**](https://abhay.portfoliopro.site).
-- 🔭 **Current Focus:** Scaling **Mattter** and building **PortfolioPro**.
+- 🔭 **Current Focus:** building **BuildINPublic** stay tuned to know what it is.
 
 > **Want a professional portfolio like mine?** Create your account at [**portfoliopro.site**](https://portfoliopro.site) and start building today! 🚀
 
